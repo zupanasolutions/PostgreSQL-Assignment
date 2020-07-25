@@ -3,7 +3,7 @@ Basic to advanced queries
 
 Procedure to use the files
 
-1. Install the latest version of PostgreSQL server
+1. Install the latest version of PostgreSQL server. You can install it from here https://www.postgresql.org/download/
 2. Create the database called wave
 3. Create the tables according to the schema described in the word document
 4. Open the query tool in the postgreSQL Server
